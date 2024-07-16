@@ -1,0 +1,17 @@
+B站：水论文的程序猿，https://space.bilibili.com/383551518
+
+软件由水论文的程序猿独立开发，侵权盗版必究，供粉丝同学免费使用，功德箱自愿打赏
+
+视频来源：https://www.bilibili.com/video/BV11L411Y7j3/
+
+软件使用视频指南：https://www.bilibili.com/video/BV1TP411U7P8/
+
+软件使用文本指南：https://imgmd.oss-cn-shanghai.aliyuncs.com/qikan-sousuo-zhinan.pdf
+
+软件开源地址：https://github.com/nickchen121/cyd-selected-journal
+
+软件由个人开发，使用后难免会出现各种bug，遇到bug，不要想着怎么解决（可能压根没有解决方法），可以第一时间去评论区留言，https://www.bilibili.com/video/BV11L411Y7j3/，在上面视频底下评论，然后直接重新打开重用。
+
+软件功能还待完善，如果你有什么想实现的功能，可以去视频，https://www.bilibili.com/video/BV11L411Y7j3/，评论，up会酌情采纳在下一个版本中集成上去。
+
+目前所有论文来源于百度学术，中文期刊是否为核心期刊，计算机会议级别等功能也没有集成，还有很多很多我已知的问题，但都需要时间，视频点赞破5万，你放心，我相信我的代码能力，只是耗精力而已。视频点赞破10万，你想要啥你和我说，我按照热度加。视频点赞破100万，你想要啥，你说，我做不到，我请人做~

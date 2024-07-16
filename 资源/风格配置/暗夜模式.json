@@ -1,0 +1,12 @@
+{
+    "background": "#333333",
+    "foreground": "#FFFFFF",
+    "entry_background": "#444444",
+    "entry_foreground": "#FFFFFF",
+    "button_background": "#555555",
+    "button_foreground": "#FFFFFF",
+    "font": {
+        "family": "Arial",
+        "size": 12
+    }
+}
