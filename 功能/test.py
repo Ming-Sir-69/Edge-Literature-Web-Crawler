@@ -1,7 +1,7 @@
 import openai
 
 # 设置你的OpenAI API Key
-api_key = ''
+api_key = 'your openai API KEY'
 openai.api_key = api_key
 
 def translate_text(input_text, source_language="zh", target_language="en"):
